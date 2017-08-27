@@ -2,7 +2,7 @@
 Unlock Your Mac Using A USB Device
 
 ## Setup
-#### sudo python setup.py
+    sudo python setup.py
 
 ## How Does It Work?
 Code waits for your USB device to show up while your computer is asleep.
